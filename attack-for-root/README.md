@@ -17,5 +17,5 @@ excel spread sheets <br />
 .txt files <br />
 come up with a standard naming convention and follow it strictly
 
-## Map Contruction Of Target
+## Map Construction Of Target
 [Next Step](https://github.com/chrisaddessi/hack-map/tree/main/attack-for-root/step2)
