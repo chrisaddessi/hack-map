@@ -1,9 +1,9 @@
 # Step 1
 The goal of this series of READMEs is to attack a single server or website and already knowing the Domain name or IP. 
 ## What information do you have?
-Domains?
-IP?
-anything else:
+Domains? <br />
+IP? <br />
+anything else: <br />
 email <br />
 names <br />
 passwords <br />
