@@ -1,9 +1,9 @@
 # Enumeration & Recon
 
-## Website Tools
+### Website Tools
 OWASP ZAP <br />
 Burp Suite
-#### Directory Brute forcing
+### Directory Brute forcing
 ###### directory, directories, url, uri
 Thes tools enumerate directories in the url
 ### wfuzz
