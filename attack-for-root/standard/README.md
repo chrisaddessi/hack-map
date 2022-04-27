@@ -3,7 +3,7 @@
 ### Website Tools
 #### OWASP ZAP
 #### Burp Suite
-## Directory Brute forcing
+### Directory Brute forcing
 ###### directory, directories, url, uri
 Thes tools enumerate directories in the url
 ### wfuzz
