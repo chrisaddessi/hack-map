@@ -12,7 +12,7 @@ files <br />
 location <br />
 people connected to the target? <br />
 
-## Find a way to organize the information you have and are going to collect
+## Organization
 excel spread sheets <br />
 .txt files <br />
 come up with a standard naming convention and follow it strictly
