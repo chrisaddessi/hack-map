@@ -1,4 +1,4 @@
-# Map Contruction Of Target
+# Map Construction Of Target
 The purpose of this step is to gain information about the Domain. Such as:
 Owner and info
 subdomains
