@@ -74,6 +74,6 @@ If the server appears to be running on a service like cloudflare or aws going fu
 
 If the server does not seem to be hosted on cloudflare for example. Use path A. Otherwis use path B.
 ### Path A
-link
+[PathA](https://github.com/chrisaddessi/hack-map/tree/main/attack-for-root/A)
 ### Path B
-link
+[PathB](https://github.com/chrisaddessi/hack-map/tree/main/attack-for-root/standard)
