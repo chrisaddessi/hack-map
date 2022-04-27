@@ -34,4 +34,4 @@ sudo nmap -sS -sV -F -p 443 8.8.8.8 --script=ssl-heartbleed -oN nmap-scan.txt
 
 
 ## Next Steps
-link to standard
+[link to standard](https://github.com/chrisaddessi/hack-map/tree/main/attack-for-root/standard)
