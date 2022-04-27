@@ -70,7 +70,7 @@ arinwhois
 site:*.bbc.com -site:www.bbc.com
 ```
 ## Two Paths
-If the server appears to be running on a service like cloudflare or aws going further with nmap will not necessarily be helpful as many ports are open on these cloud hosting servers and they come with firewall prebuilt in. 
+If the server appears to be running on a service like cloudflare or aws going further with nmap will not necessarily be helpful as many ports are open. Cloud hosting servers often come with firewalls. 
 
 If the server does not seem to be hosted on cloudflare for example. Use path A. Otherwis use path B.
 ### Path A
