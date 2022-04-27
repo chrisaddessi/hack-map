@@ -1,8 +1,9 @@
 # Map Construction Of Target
-The purpose of this step is to gain information about the Domain. Such as:
-Owner and info
-subdomains
-whether or not the site or service is hosted by a cloud company or by and individual.
+The purpose of this step is to gain information about the Domain. Such as: <br />
+Owner info <br />
+subdomains <br />
+Cloud hosted?
+
 
 ## DNS & Subdomain Enumeration Tools
 ###### dns, domains
