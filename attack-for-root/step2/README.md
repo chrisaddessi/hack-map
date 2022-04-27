@@ -1,4 +1,4 @@
-# Understand the orign of the server
+# Map Contruction Of Target
 The purpose of this step is to gain information about the Domain. Such as:
 Owner and info
 subdomains
