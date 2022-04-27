@@ -6,7 +6,6 @@ Cloud hosted?
 
 
 ## DNS & Subdomain Enumeration Tools
-###### dns, domains
 ### amass
 https://github.com/OWASP/Amass <br />
 Performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques. <br />
