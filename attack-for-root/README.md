@@ -4,12 +4,12 @@ The goal of this series of READMEs is to attack a single server or website.
 Domains? <br />
 IP? <br />
 anything else: <br />
+services <br />
 email <br />
 names <br />
 passwords <br />
 files <br />
 location <br />
-services <br />
 people connected to the target? <br />
 
 ## Find a way to organize the information you have and are going to collect
